@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build Folders
+bin/
+obj/
+
+# Other temporary files
+*.log
+*.lock
